@@ -1,0 +1,16 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+
+
+}
+
+body{
+    background-image:url(cNC4x.jpg) ;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    
+}
+
